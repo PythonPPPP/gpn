@@ -12,6 +12,6 @@
 правилами, описанными ранее. Результат отправляется в формате .parquet.
 Всего должно быть 1350 строчек (5*3*15).
 
-GPN (1).ipynb - решение
-df_baseline.parquet - бэйзлайн
-df_predict_price.parquet - предсказанные цены
+GPN (1).ipynb - решение <br>
+df_baseline.parquet - бэйзлайн <br>
+df_predict_price.parquet - предсказанные цены <br>
